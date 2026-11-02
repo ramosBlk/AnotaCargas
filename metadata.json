@@ -1,0 +1,6 @@
+{
+  "name": "IronLoad - Cargas de Treino",
+  "description": "Aplicativo mobile para controle e gerenciamento de cargas em treinos de musculação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
