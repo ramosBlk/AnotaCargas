@@ -8,6 +8,12 @@
   <strong>Organize seus exercícios. Registre suas cargas. Acompanhe sua evolução.</strong>
 </p>
 
+<p align="center">
+  <a href="https://ramosblk.ai.studio">
+    <strong>🚀 Acessar AnotaCargas</strong>
+  </a>
+</p>
+
 ---
 
 ## 📌 Sobre o projeto
@@ -33,6 +39,7 @@ O aplicativo busca centralizar as informações dos treinos em um único ambient
 O aplicativo permite organizar os exercícios em pastas, representando diferentes grupos musculares.
 
 Exemplos de categorias:
+
 - Peito
 - Costas
 - Ombros
@@ -63,7 +70,7 @@ As operações de cadastro, edição e exclusão devem refletir corretamente no 
 
 Um dos principais pontos do projeto foi a preocupação com o planejamento antes de iniciar a implementação.
 
-O desenvolvimento contou com o auxílio da **Alura** e **Google AI Studio**, utilizado como ferramenta de apoio na construção da aplicação.
+O desenvolvimento contou com o auxílio da **Alura** e do **Google AI Studio**, utilizado como ferramenta de apoio na construção da aplicação.
 
 Antes da implementação em código, foi realizado um levantamento estruturado para definir o comportamento esperado do sistema.
 
@@ -127,11 +134,17 @@ O desenvolvimento segue uma abordagem incremental, permitindo que novas funciona
 - **Git e GitHub:** versionamento e armazenamento do código-fonte.
 - **Engenharia de Software:** levantamento de requisitos, especificação CRUD, regras de negócio e critérios de aceitação.
 
+## 🌐 Acesso à aplicação
+
+A aplicação está disponível para acesso pelo seguinte endereço:
+
+**[https://ramosblk.ai.studio](https://ramosblk.ai.studio)**
+
 ## 📂 Repositório
 
 O código-fonte e o histórico de desenvolvimento estão disponíveis em:
 
-[AnotaCargas – GitHub](https://github.com/ramosBlk/AnotaCargas)
+**[AnotaCargas – GitHub](https://github.com/ramosBlk/AnotaCargas)**
 
 ## 📈 Evolução do projeto
 
