@@ -52,7 +52,7 @@ export const Header: React.FC<HeaderProps> = ({
             </div>
             <div>
               <h1 className="text-base font-bold tracking-tight text-white flex items-center gap-2">
-                IronLoad
+                ramosBlk
                 <span className="text-xs font-normal text-slate-400">
                   · {folderCount} {folderCount === 1 ? 'grupo' : 'grupos'} ({exerciseCount} {exerciseCount === 1 ? 'exercício' : 'exercícios'})
                 </span>
